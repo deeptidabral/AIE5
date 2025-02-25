@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.13.1",
+  "startedAt":  "2025-02-25T15:53:15.329828Z",
+  "program":  "c:\\Users\\dabra\\OneDrive\\Documents\\AI Makerspace\\AIE5\\Mid-Term Project\\04_fine_tuning_embedding.ipynb",
+  "codePath":  "Mid-Term Project\\04_fine_tuning_embedding.ipynb",
+  "git":  {
+    "remote":  "git@github.com:deeptidabral/AIE5.git",
+    "commit":  "b66326fdccfa7fc8a8dac7e8b99481bab2512db9"
+  },
+  "email":  "deeps.oct1985@gmail.com",
+  "root":  "c:\\Users\\dabra\\OneDrive\\Documents\\AI Makerspace\\AIE5\\Mid-Term Project",
+  "host":  "DESKTOP-2454QA2",
+  "executable":  "c:\\Python313\\python.exe",
+  "codePathLocal":  "04_fine_tuning_embedding.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "254477856768",
+      "used":  "192413175808"
+    }
+  },
+  "memory":  {
+    "total":  "16745795584"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}

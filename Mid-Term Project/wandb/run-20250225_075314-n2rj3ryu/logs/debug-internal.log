@@ -1,0 +1,22 @@
+{"time":"2025-02-25T07:53:15.3349481-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\dabra\\OneDrive\\Documents\\AI Makerspace\\AIE5\\Mid-Term Project\\wandb\\run-20250225_075314-n2rj3ryu\\logs\\debug-core.log"}
+{"time":"2025-02-25T07:53:15.5736119-08:00","level":"INFO","msg":"created new stream","id":"n2rj3ryu"}
+{"time":"2025-02-25T07:53:15.5736119-08:00","level":"INFO","msg":"stream: started","id":"n2rj3ryu"}
+{"time":"2025-02-25T07:53:15.5736119-08:00","level":"INFO","msg":"handler: started","stream_id":"n2rj3ryu"}
+{"time":"2025-02-25T07:53:15.5736119-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"n2rj3ryu"}
+{"time":"2025-02-25T07:53:15.5736119-08:00","level":"INFO","msg":"sender: started","stream_id":"n2rj3ryu"}
+{"time":"2025-02-25T07:53:16.0462245-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-25T09:17:46.937393-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T09:24:27.4117573-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T09:24:29.7873091-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T09:26:32.9272111-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T09:26:34.6592728-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T09:26:47.1085712-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T09:27:00.1007527-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T09:27:40.3749066-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T09:27:40.4211355-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T09:28:11.1616699-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T09:28:11.1797814-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T12:10:32.6017227-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/deeps-oct1985-vedic-solutions/sentence-transformers/n2rj3ryu/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-25T12:45:30.5783453-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/deeps-oct1985-vedic-solutions/sentence-transformers/n2rj3ryu/file_stream\": read tcp 192.168.1.127:51002->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-25T12:45:51.8156421-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/deeps-oct1985-vedic-solutions/sentence-transformers/n2rj3ryu/file_stream\": read tcp 192.168.1.127:51004->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-25T12:46:15.412383-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/deeps-oct1985-vedic-solutions/sentence-transformers/n2rj3ryu/file_stream\": read tcp 192.168.1.127:51012->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
