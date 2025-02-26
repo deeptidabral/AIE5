@@ -1,0 +1,16 @@
+{"time":"2025-02-25T19:30:20.2605053-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\dabra\\OneDrive\\Documents\\AI Makerspace\\AIE5\\Mid-Term Project\\wandb\\run-20250225_193019-tixwb2pc\\logs\\debug-core.log"}
+{"time":"2025-02-25T19:30:20.5198091-08:00","level":"INFO","msg":"created new stream","id":"tixwb2pc"}
+{"time":"2025-02-25T19:30:20.5198091-08:00","level":"INFO","msg":"stream: started","id":"tixwb2pc"}
+{"time":"2025-02-25T19:30:20.5203826-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"tixwb2pc"}
+{"time":"2025-02-25T19:30:20.5203826-08:00","level":"INFO","msg":"sender: started","stream_id":"tixwb2pc"}
+{"time":"2025-02-25T19:30:20.5198091-08:00","level":"INFO","msg":"handler: started","stream_id":"tixwb2pc"}
+{"time":"2025-02-25T19:30:20.835205-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-25T20:24:40.3228562-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/deeps-oct1985-vedic-solutions/sentence-transformers/tixwb2pc/file_stream\": read tcp 192.168.1.127:49152->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-25T20:44:38.8023734-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-25T21:34:05.1533707-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T21:38:01.661921-08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T21:38:04.202218-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T22:28:27.6403782-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-25T22:37:28.3096249-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.127:58417->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-02-25T23:44:30.3389765-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.127:61815->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-02-26T01:27:07.2329214-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/deeps-oct1985-vedic-solutions/sentence-transformers/tixwb2pc/file_stream\": read tcp 192.168.1.127:51010->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
